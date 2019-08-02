@@ -23,7 +23,7 @@ management:
         
 ---
 spring:
-  profiles: order1
+  profiles: order1s
   
 server:
   port: 8201
